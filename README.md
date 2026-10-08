@@ -16,4 +16,4 @@ Children: Because we collect no data, we collect none from children either.
 
 Changes: If this ever changes, we'll update this policy and the "last updated" date.
 
-Contact: [your email]
+Contact: [msnkey114@gmail.com]
